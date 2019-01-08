@@ -40,7 +40,9 @@ HW2
   
     邊界呈現：可顯示白底黑色邊界,或黑色底白色邊界。 
 
-3. 利用統計法 及 Otsu’s threshold [1] 決定門檻值，將 peppers_512x512.jpeg 分成兩個群組。
+  3. 
+  
+    利用統計法 及 Otsu’s threshold [1] 決定門檻值，將 peppers_512x512.jpeg 分成兩個群組。
     References: [1]N. Otsu, “A threshold selection method from gray level histogram,” IEEE Trans. on Systems, Man, and Cybernetics, pp.     62-   66, 1979. 
   
 HW3
